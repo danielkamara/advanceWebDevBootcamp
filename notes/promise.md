@@ -4,6 +4,6 @@ Analogy: Taking an number at a government office before you can get helped.
 The piece of paper you get is like your promise. The help you get at the counter
 is like the invocation of your callback.
 
-# Primises In Practice
+# Promises In Practice
 It is useful to understand how promises work (resolve, reject), but in practice you 
 will often use promises that are returned to you.
